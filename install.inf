@@ -1,0 +1,5 @@
+[info]
+title=Linter for XML, using xmllint-libxml2
+desc=Linter for CudaLint, adds support for XML lexer, using xmllint-libxml2
+type=cudatext-plugin
+subdir=cuda_lint_xmllint
